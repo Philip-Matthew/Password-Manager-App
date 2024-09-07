@@ -26,7 +26,7 @@ Before running the application, make sure you have the following installed:
 3. Run the Python script:
 
    ```bash
-   python password_manager.py
+   python main.py
    ```
 
 4. Use the following buttons:
